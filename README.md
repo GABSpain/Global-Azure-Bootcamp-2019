@@ -37,7 +37,7 @@ Pablo Bouzada Santomé | No, (aún) no estás preparado para migrar a Azure
 Robert Bermejo & Fernando Sola Benítez & Javier Moreno | IoT mini Cluedo
 Ruben Ramos Mateo | Búsqueda inteligente en Azure
 Toni  Granell | Si programo en .net. ¿para qué me sirve la Power Platform?
-Txema Balseiro | PowerFull with Computer Vision
+Txema González Balseiro | PowerFull with Computer Vision
 
 ![GAB2019 Barcelona](/images/GAB2019_Barcelona.jpg)
 
